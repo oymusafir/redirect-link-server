@@ -1,0 +1,14 @@
+{
+  "name": "redirect-link-server",
+  "version": "1.0.0",
+  "description": "this is server to redirect audiance on base of visitors.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Muhammad Adnan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.1"
+  }
+}
